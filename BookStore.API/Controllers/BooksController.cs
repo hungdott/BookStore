@@ -30,7 +30,7 @@ namespace BookStore.API.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Book> GetByGenre([FromQuery] string Genre)
+        public IEnumerable<Book> GetByGenre([FromBody] string Genre)
         {
             return _unitOfWork.Books.GetBooksByGenre(Genre);
         }
@@ -56,7 +56,7 @@ namespace BookStore.API.Controllers
 
         // PUT api/<Books>/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromQuery] BookDto bookReq)
+        public async Task<IActionResult> Put(int id, [FromBody] BookDto bookReq)
         {
             var book = await _unitOfWork.Books.Get(id);
             if (book==null)
