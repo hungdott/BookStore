@@ -1,0 +1,12 @@
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\bin\Debug\netstandard2.0\BookStore.Repository.deps.json
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\bin\Debug\netstandard2.0\BookStore.Repository.dll
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\bin\Debug\netstandard2.0\BookStore.Repository.pdb
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\bin\Debug\netstandard2.0\BookStore.Domain.dll
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\bin\Debug\netstandard2.0\BookStore.Domain.pdb
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.csprojAssemblyReference.cache
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.AssemblyInfoInputs.cache
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.AssemblyInfo.cs
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.csproj.CopyComplete
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.dll
+H:\Hungdo\DotNetCore\BookStoreAPI\BookStore\BookStore.Repository\obj\Debug\netstandard2.0\BookStore.Repository.pdb
